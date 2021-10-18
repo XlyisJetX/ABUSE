@@ -22,7 +22,7 @@ print("""\033[91m
                   TOOLS BY XLYIS """)
 
 print("\033[92m")
-print(" TOOLS BY : UFTTT")
+print(" TOOLS BY :Xlyis")
 print(" ###########################################")
 print(" | OWNER   : Xlyis                           ")
 print(" • IDEA   : Xlyis                    •")
